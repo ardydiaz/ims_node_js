@@ -1,0 +1,24 @@
+mongodb
+
+  https://www.mongodb.com/try/download/community
+  https://www.mongodb.com/try/download/compass
+
+
+
+
+table schema
+product_code
+product_name
+product_description
+product_image
+
+#4
+
+package module
+express js
+mongoose (object data modeling (ODM) library)
+EJS (embedded javascript templating engine)
+multer (image uploading)
+express session(storing session message)
+Dotenv(environtment variable)
+Nodemo (monitoring server)
